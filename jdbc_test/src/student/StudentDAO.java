@@ -1,3 +1,5 @@
+// 16일차
+
 package student;
 
 import java.sql.Connection;
